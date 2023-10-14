@@ -1,7 +1,7 @@
 data_manager_params:
   exchange_id: kraken
   sandbox_mode: False
-  database_user: admin
+  database_user: user
   database_password: goodpassword
   database_host: localhost
   database_port: "5432"
