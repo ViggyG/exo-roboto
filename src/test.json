@@ -1,0 +1,3598 @@
+{
+ "AMPEUR": {
+  "symbol": "AMPEUR",
+  "timestamp": 1696905009240,
+  "datetime": "2023-10-10T02:30:09.240Z",
+  "high": null,
+  "low": null,
+  "bid": null,
+  "bidVolume": null,
+  "ask": null,
+  "askVolume": null,
+  "vwap": null,
+  "open": null,
+  "close": null,
+  "last": null,
+  "previousClose": null,
+  "change": 0.0,
+  "percentage": null,
+  "average": null,
+  "baseVolume": 0.0,
+  "quoteVolume": 0.0,
+  "info": {
+   "a": [
+    "0.0000000000",
+    "0",
+    "0.000"
+   ],
+   "b": [
+    "0.0000000000",
+    "0",
+    "0.000"
+   ],
+   "c": [
+    "0.0000000000",
+    "0.00000000"
+   ],
+   "v": [
+    "0.00000000",
+    "0.00000000"
+   ],
+   "p": [
+    "0.0000000000",
+    "0.0000000000"
+   ],
+   "t": [
+    "0",
+    "0"
+   ],
+   "l": [
+    "0.0000000000",
+    "0.0000000000"
+   ],
+   "h": [
+    "0.0000000000",
+    "0.0000000000"
+   ],
+   "o": "0.0000000000"
+  }
+ },
+ "AMPUSD": {
+  "symbol": "AMPUSD",
+  "timestamp": 1696905009240,
+  "datetime": "2023-10-10T02:30:09.240Z",
+  "high": null,
+  "low": null,
+  "bid": null,
+  "bidVolume": null,
+  "ask": null,
+  "askVolume": null,
+  "vwap": null,
+  "open": null,
+  "close": null,
+  "last": null,
+  "previousClose": null,
+  "change": 0.0,
+  "percentage": null,
+  "average": null,
+  "baseVolume": 0.0,
+  "quoteVolume": 0.0,
+  "info": {
+   "a": [
+    "0.0000000000",
+    "0",
+    "0.000"
+   ],
+   "b": [
+    "0.0000000000",
+    "0",
+    "0.000"
+   ],
+   "c": [
+    "0.0000000000",
+    "0.00000000"
+   ],
+   "v": [
+    "0.00000000",
+    "0.00000000"
+   ],
+   "p": [
+    "0.0000000000",
+    "0.0000000000"
+   ],
+   "t": [
+    "0",
+    "0"
+   ],
+   "l": [
+    "0.0000000000",
+    "0.0000000000"
+   ],
+   "h": [
+    "0.0000000000",
+    "0.0000000000"
+   ],
+   "o": "0.0000000000"
+  }
+ },
+ "AURYEUR": {
+  "symbol": "AURYEUR",
+  "timestamp": 1696905009244,
+  "datetime": "2023-10-10T02:30:09.244Z",
+  "high": null,
+  "low": null,
+  "bid": null,
+  "bidVolume": null,
+  "ask": null,
+  "askVolume": null,
+  "vwap": null,
+  "open": null,
+  "close": null,
+  "last": null,
+  "previousClose": null,
+  "change": 0.0,
+  "percentage": null,
+  "average": null,
+  "baseVolume": 0.0,
+  "quoteVolume": 0.0,
+  "info": {
+   "a": [
+    "0.0000000",
+    "0",
+    "0.000"
+   ],
+   "b": [
+    "0.0000000",
+    "0",
+    "0.000"
+   ],
+   "c": [
+    "0.0000000",
+    "0.00000000"
+   ],
+   "v": [
+    "0.00000000",
+    "0.00000000"
+   ],
+   "p": [
+    "0.0000000",
+    "0.0000000"
+   ],
+   "t": [
+    "0",
+    "0"
+   ],
+   "l": [
+    "0.0000000",
+    "0.0000000"
+   ],
+   "h": [
+    "0.0000000",
+    "0.0000000"
+   ],
+   "o": "0.0000000"
+  }
+ },
+ "AURYUSD": {
+  "symbol": "AURYUSD",
+  "timestamp": 1696905009244,
+  "datetime": "2023-10-10T02:30:09.244Z",
+  "high": null,
+  "low": null,
+  "bid": null,
+  "bidVolume": null,
+  "ask": null,
+  "askVolume": null,
+  "vwap": null,
+  "open": null,
+  "close": null,
+  "last": null,
+  "previousClose": null,
+  "change": 0.0,
+  "percentage": null,
+  "average": null,
+  "baseVolume": 0.0,
+  "quoteVolume": 0.0,
+  "info": {
+   "a": [
+    "0.0000000",
+    "0",
+    "0.000"
+   ],
+   "b": [
+    "0.0000000",
+    "0",
+    "0.000"
+   ],
+   "c": [
+    "0.0000000",
+    "0.00000000"
+   ],
+   "v": [
+    "0.00000000",
+    "0.00000000"
+   ],
+   "p": [
+    "0.0000000",
+    "0.0000000"
+   ],
+   "t": [
+    "0",
+    "0"
+   ],
+   "l": [
+    "0.0000000",
+    "0.0000000"
+   ],
+   "h": [
+    "0.0000000",
+    "0.0000000"
+   ],
+   "o": "0.0000000"
+  }
+ },
+ "AXLEUR": {
+  "symbol": "AXLEUR",
+  "timestamp": 1696905009245,
+  "datetime": "2023-10-10T02:30:09.245Z",
+  "high": null,
+  "low": null,
+  "bid": null,
+  "bidVolume": null,
+  "ask": null,
+  "askVolume": null,
+  "vwap": null,
+  "open": null,
+  "close": null,
+  "last": null,
+  "previousClose": null,
+  "change": 0.0,
+  "percentage": null,
+  "average": null,
+  "baseVolume": 0.0,
+  "quoteVolume": 0.0,
+  "info": {
+   "a": [
+    "0.00000000",
+    "0",
+    "0.000"
+   ],
+   "b": [
+    "0.00000000",
+    "0",
+    "0.000"
+   ],
+   "c": [
+    "0.00000000",
+    "0.00000000"
+   ],
+   "v": [
+    "0.00000000",
+    "0.00000000"
+   ],
+   "p": [
+    "0.00000000",
+    "0.00000000"
+   ],
+   "t": [
+    "0",
+    "0"
+   ],
+   "l": [
+    "0.00000000",
+    "0.00000000"
+   ],
+   "h": [
+    "0.00000000",
+    "0.00000000"
+   ],
+   "o": "0.00000000"
+  }
+ },
+ "AXLUSD": {
+  "symbol": "AXLUSD",
+  "timestamp": 1696905009245,
+  "datetime": "2023-10-10T02:30:09.245Z",
+  "high": null,
+  "low": null,
+  "bid": null,
+  "bidVolume": null,
+  "ask": null,
+  "askVolume": null,
+  "vwap": null,
+  "open": null,
+  "close": null,
+  "last": null,
+  "previousClose": null,
+  "change": 0.0,
+  "percentage": null,
+  "average": null,
+  "baseVolume": 0.0,
+  "quoteVolume": 0.0,
+  "info": {
+   "a": [
+    "0.00000000",
+    "0",
+    "0.000"
+   ],
+   "b": [
+    "0.00000000",
+    "0",
+    "0.000"
+   ],
+   "c": [
+    "0.00000000",
+    "0.00000000"
+   ],
+   "v": [
+    "0.00000000",
+    "0.00000000"
+   ],
+   "p": [
+    "0.00000000",
+    "0.00000000"
+   ],
+   "t": [
+    "0",
+    "0"
+   ],
+   "l": [
+    "0.00000000",
+    "0.00000000"
+   ],
+   "h": [
+    "0.00000000",
+    "0.00000000"
+   ],
+   "o": "0.00000000"
+  }
+ },
+ "BCHCHF": {
+  "symbol": "BCHCHF",
+  "timestamp": 1696905009247,
+  "datetime": "2023-10-10T02:30:09.247Z",
+  "high": null,
+  "low": null,
+  "bid": null,
+  "bidVolume": null,
+  "ask": null,
+  "askVolume": null,
+  "vwap": null,
+  "open": null,
+  "close": null,
+  "last": null,
+  "previousClose": null,
+  "change": 0.0,
+  "percentage": null,
+  "average": null,
+  "baseVolume": 0.0,
+  "quoteVolume": 0.0,
+  "info": {
+   "a": [
+    "0.000000",
+    "0",
+    "0.000"
+   ],
+   "b": [
+    "0.000000",
+    "0",
+    "0.000"
+   ],
+   "c": [
+    "0.000000",
+    "0.00000000"
+   ],
+   "v": [
+    "0.00000000",
+    "0.00000000"
+   ],
+   "p": [
+    "0.000000",
+    "0.000000"
+   ],
+   "t": [
+    "0",
+    "0"
+   ],
+   "l": [
+    "0.000000",
+    "0.000000"
+   ],
+   "h": [
+    "0.000000",
+    "0.000000"
+   ],
+   "o": "0.000000"
+  }
+ },
+ "BOOEUR": {
+  "symbol": "BOOEUR",
+  "timestamp": 1696905009249,
+  "datetime": "2023-10-10T02:30:09.249Z",
+  "high": null,
+  "low": null,
+  "bid": null,
+  "bidVolume": null,
+  "ask": null,
+  "askVolume": null,
+  "vwap": null,
+  "open": null,
+  "close": null,
+  "last": null,
+  "previousClose": null,
+  "change": 0.0,
+  "percentage": null,
+  "average": null,
+  "baseVolume": 0.0,
+  "quoteVolume": 0.0,
+  "info": {
+   "a": [
+    "0.0000000",
+    "0",
+    "0.000"
+   ],
+   "b": [
+    "0.0000000",
+    "0",
+    "0.000"
+   ],
+   "c": [
+    "0.0000000",
+    "0.00000000"
+   ],
+   "v": [
+    "0.00000000",
+    "0.00000000"
+   ],
+   "p": [
+    "0.0000000",
+    "0.0000000"
+   ],
+   "t": [
+    "0",
+    "0"
+   ],
+   "l": [
+    "0.0000000",
+    "0.0000000"
+   ],
+   "h": [
+    "0.0000000",
+    "0.0000000"
+   ],
+   "o": "0.0000000"
+  }
+ },
+ "BOOUSD": {
+  "symbol": "BOOUSD",
+  "timestamp": 1696905009250,
+  "datetime": "2023-10-10T02:30:09.250Z",
+  "high": null,
+  "low": null,
+  "bid": null,
+  "bidVolume": null,
+  "ask": null,
+  "askVolume": null,
+  "vwap": null,
+  "open": null,
+  "close": null,
+  "last": null,
+  "previousClose": null,
+  "change": 0.0,
+  "percentage": null,
+  "average": null,
+  "baseVolume": 0.0,
+  "quoteVolume": 0.0,
+  "info": {
+   "a": [
+    "0.0000000",
+    "0",
+    "0.000"
+   ],
+   "b": [
+    "0.0000000",
+    "0",
+    "0.000"
+   ],
+   "c": [
+    "0.0000000",
+    "0.00000000"
+   ],
+   "v": [
+    "0.00000000",
+    "0.00000000"
+   ],
+   "p": [
+    "0.0000000",
+    "0.0000000"
+   ],
+   "t": [
+    "0",
+    "0"
+   ],
+   "l": [
+    "0.0000000",
+    "0.0000000"
+   ],
+   "h": [
+    "0.0000000",
+    "0.0000000"
+   ],
+   "o": "0.0000000"
+  }
+ },
+ "BRICKETH": {
+  "symbol": "BRICKETH",
+  "timestamp": 1696905009250,
+  "datetime": "2023-10-10T02:30:09.250Z",
+  "high": null,
+  "low": null,
+  "bid": null,
+  "bidVolume": null,
+  "ask": null,
+  "askVolume": null,
+  "vwap": null,
+  "open": null,
+  "close": null,
+  "last": null,
+  "previousClose": null,
+  "change": 0.0,
+  "percentage": null,
+  "average": null,
+  "baseVolume": 0.0,
+  "quoteVolume": 0.0,
+  "info": {
+   "a": [
+    "0.000000000000",
+    "0",
+    "0.000"
+   ],
+   "b": [
+    "0.000000000000",
+    "0",
+    "0.000"
+   ],
+   "c": [
+    "0.000000000000",
+    "0.00000000"
+   ],
+   "v": [
+    "0.00000000",
+    "0.00000000"
+   ],
+   "p": [
+    "0.000000000000",
+    "0.000000000000"
+   ],
+   "t": [
+    "0",
+    "0"
+   ],
+   "l": [
+    "0.000000000000",
+    "0.000000000000"
+   ],
+   "h": [
+    "0.000000000000",
+    "0.000000000000"
+   ],
+   "o": "0.000000000000"
+  }
+ },
+ "CLVEUR": {
+  "symbol": "CLVEUR",
+  "timestamp": 1696905009252,
+  "datetime": "2023-10-10T02:30:09.252Z",
+  "high": null,
+  "low": null,
+  "bid": null,
+  "bidVolume": null,
+  "ask": null,
+  "askVolume": null,
+  "vwap": null,
+  "open": null,
+  "close": null,
+  "last": null,
+  "previousClose": null,
+  "change": 0.0,
+  "percentage": null,
+  "average": null,
+  "baseVolume": 0.0,
+  "quoteVolume": 0.0,
+  "info": {
+   "a": [
+    "0.000000000",
+    "0",
+    "0.000"
+   ],
+   "b": [
+    "0.000000000",
+    "0",
+    "0.000"
+   ],
+   "c": [
+    "0.000000000",
+    "0.00000000"
+   ],
+   "v": [
+    "0.00000000",
+    "0.00000000"
+   ],
+   "p": [
+    "0.000000000",
+    "0.000000000"
+   ],
+   "t": [
+    "0",
+    "0"
+   ],
+   "l": [
+    "0.000000000",
+    "0.000000000"
+   ],
+   "h": [
+    "0.000000000",
+    "0.000000000"
+   ],
+   "o": "0.000000000"
+  }
+ },
+ "CLVUSD": {
+  "symbol": "CLVUSD",
+  "timestamp": 1696905009252,
+  "datetime": "2023-10-10T02:30:09.252Z",
+  "high": null,
+  "low": null,
+  "bid": null,
+  "bidVolume": null,
+  "ask": null,
+  "askVolume": null,
+  "vwap": null,
+  "open": null,
+  "close": null,
+  "last": null,
+  "previousClose": null,
+  "change": 0.0,
+  "percentage": null,
+  "average": null,
+  "baseVolume": 0.0,
+  "quoteVolume": 0.0,
+  "info": {
+   "a": [
+    "0.000000000",
+    "0",
+    "0.000"
+   ],
+   "b": [
+    "0.000000000",
+    "0",
+    "0.000"
+   ],
+   "c": [
+    "0.000000000",
+    "0.00000000"
+   ],
+   "v": [
+    "0.00000000",
+    "0.00000000"
+   ],
+   "p": [
+    "0.000000000",
+    "0.000000000"
+   ],
+   "t": [
+    "0",
+    "0"
+   ],
+   "l": [
+    "0.000000000",
+    "0.000000000"
+   ],
+   "h": [
+    "0.000000000",
+    "0.000000000"
+   ],
+   "o": "0.000000000"
+  }
+ },
+ "ENJETH": {
+  "symbol": "ENJETH",
+  "timestamp": 1696905009256,
+  "datetime": "2023-10-10T02:30:09.256Z",
+  "high": null,
+  "low": null,
+  "bid": null,
+  "bidVolume": null,
+  "ask": null,
+  "askVolume": null,
+  "vwap": null,
+  "open": null,
+  "close": null,
+  "last": null,
+  "previousClose": null,
+  "change": 0.0,
+  "percentage": null,
+  "average": null,
+  "baseVolume": 0.0,
+  "quoteVolume": 0.0,
+  "info": {
+   "a": [
+    "0.00000000000",
+    "0",
+    "0.000"
+   ],
+   "b": [
+    "0.00000000000",
+    "0",
+    "0.000"
+   ],
+   "c": [
+    "0.00000000000",
+    "0.00000000"
+   ],
+   "v": [
+    "0.00000000",
+    "0.00000000"
+   ],
+   "p": [
+    "0.00000000000",
+    "0.00000000000"
+   ],
+   "t": [
+    "0",
+    "0"
+   ],
+   "l": [
+    "0.00000000000",
+    "0.00000000000"
+   ],
+   "h": [
+    "0.00000000000",
+    "0.00000000000"
+   ],
+   "o": "0.00000000000"
+  }
+ },
+ "EQEUR": {
+  "symbol": "EQEUR",
+  "timestamp": 1696905009258,
+  "datetime": "2023-10-10T02:30:09.258Z",
+  "high": null,
+  "low": null,
+  "bid": null,
+  "bidVolume": null,
+  "ask": null,
+  "askVolume": null,
+  "vwap": null,
+  "open": null,
+  "close": null,
+  "last": null,
+  "previousClose": null,
+  "change": 0.0,
+  "percentage": null,
+  "average": null,
+  "baseVolume": 0.0,
+  "quoteVolume": 0.0,
+  "info": {
+   "a": [
+    "0.000000000",
+    "0",
+    "0.000"
+   ],
+   "b": [
+    "0.000000000",
+    "0",
+    "0.000"
+   ],
+   "c": [
+    "0.000000000",
+    "0.00000000"
+   ],
+   "v": [
+    "0.00000000",
+    "0.00000000"
+   ],
+   "p": [
+    "0.000000000",
+    "0.000000000"
+   ],
+   "t": [
+    "0",
+    "0"
+   ],
+   "l": [
+    "0.000000000",
+    "0.000000000"
+   ],
+   "h": [
+    "0.000000000",
+    "0.000000000"
+   ],
+   "o": "0.000000000"
+  }
+ },
+ "EQUSD": {
+  "symbol": "EQUSD",
+  "timestamp": 1696905009258,
+  "datetime": "2023-10-10T02:30:09.258Z",
+  "high": null,
+  "low": null,
+  "bid": null,
+  "bidVolume": null,
+  "ask": null,
+  "askVolume": null,
+  "vwap": null,
+  "open": null,
+  "close": null,
+  "last": null,
+  "previousClose": null,
+  "change": 0.0,
+  "percentage": null,
+  "average": null,
+  "baseVolume": 0.0,
+  "quoteVolume": 0.0,
+  "info": {
+   "a": [
+    "0.000000000",
+    "0",
+    "0.000"
+   ],
+   "b": [
+    "0.000000000",
+    "0",
+    "0.000"
+   ],
+   "c": [
+    "0.000000000",
+    "0.00000000"
+   ],
+   "v": [
+    "0.00000000",
+    "0.00000000"
+   ],
+   "p": [
+    "0.000000000",
+    "0.000000000"
+   ],
+   "t": [
+    "0",
+    "0"
+   ],
+   "l": [
+    "0.000000000",
+    "0.000000000"
+   ],
+   "h": [
+    "0.000000000",
+    "0.000000000"
+   ],
+   "o": "0.000000000"
+  }
+ },
+ "ETHBRL": {
+  "symbol": "ETHBRL",
+  "timestamp": 1696905009259,
+  "datetime": "2023-10-10T02:30:09.259Z",
+  "high": null,
+  "low": null,
+  "bid": null,
+  "bidVolume": null,
+  "ask": null,
+  "askVolume": null,
+  "vwap": null,
+  "open": null,
+  "close": null,
+  "last": null,
+  "previousClose": null,
+  "change": 0.0,
+  "percentage": null,
+  "average": null,
+  "baseVolume": 0.0,
+  "quoteVolume": 0.0,
+  "info": {
+   "a": [
+    "0.0000",
+    "0",
+    "0.000"
+   ],
+   "b": [
+    "0.0000",
+    "0",
+    "0.000"
+   ],
+   "c": [
+    "0.0000",
+    "0.00000000"
+   ],
+   "v": [
+    "0.00000000",
+    "0.00000000"
+   ],
+   "p": [
+    "0.0000",
+    "0.0000"
+   ],
+   "t": [
+    "0",
+    "0"
+   ],
+   "l": [
+    "0.0000",
+    "0.0000"
+   ],
+   "h": [
+    "0.0000",
+    "0.0000"
+   ],
+   "o": "0.0000"
+  }
+ },
+ "EURBRL": {
+  "symbol": "EURBRL",
+  "timestamp": 1696905009261,
+  "datetime": "2023-10-10T02:30:09.261Z",
+  "high": null,
+  "low": null,
+  "bid": null,
+  "bidVolume": null,
+  "ask": null,
+  "askVolume": null,
+  "vwap": null,
+  "open": null,
+  "close": null,
+  "last": null,
+  "previousClose": null,
+  "change": 0.0,
+  "percentage": null,
+  "average": null,
+  "baseVolume": 0.0,
+  "quoteVolume": 0.0,
+  "info": {
+   "a": [
+    "0.000000",
+    "0",
+    "0.000"
+   ],
+   "b": [
+    "0.000000",
+    "0",
+    "0.000"
+   ],
+   "c": [
+    "0.000000",
+    "0.00000000"
+   ],
+   "v": [
+    "0.00000000",
+    "0.00000000"
+   ],
+   "p": [
+    "0.000000",
+    "0.000000"
+   ],
+   "t": [
+    "0",
+    "0"
+   ],
+   "l": [
+    "0.000000",
+    "0.000000"
+   ],
+   "h": [
+    "0.000000",
+    "0.000000"
+   ],
+   "o": "0.000000"
+  }
+ },
+ "EUROCEUR": {
+  "symbol": "EUROCEUR",
+  "timestamp": 1696905009261,
+  "datetime": "2023-10-10T02:30:09.261Z",
+  "high": null,
+  "low": null,
+  "bid": null,
+  "bidVolume": null,
+  "ask": null,
+  "askVolume": null,
+  "vwap": null,
+  "open": null,
+  "close": null,
+  "last": null,
+  "previousClose": null,
+  "change": 0.0,
+  "percentage": null,
+  "average": null,
+  "baseVolume": 0.0,
+  "quoteVolume": 0.0,
+  "info": {
+   "a": [
+    "0.00000000",
+    "0",
+    "0.000"
+   ],
+   "b": [
+    "0.00000000",
+    "0",
+    "0.000"
+   ],
+   "c": [
+    "0.00000000",
+    "0.00000000"
+   ],
+   "v": [
+    "0.00000000",
+    "0.00000000"
+   ],
+   "p": [
+    "0.00000000",
+    "0.00000000"
+   ],
+   "t": [
+    "0",
+    "0"
+   ],
+   "l": [
+    "0.00000000",
+    "0.00000000"
+   ],
+   "h": [
+    "0.00000000",
+    "0.00000000"
+   ],
+   "o": "0.00000000"
+  }
+ },
+ "EUROCUSD": {
+  "symbol": "EUROCUSD",
+  "timestamp": 1696905009261,
+  "datetime": "2023-10-10T02:30:09.261Z",
+  "high": null,
+  "low": null,
+  "bid": null,
+  "bidVolume": null,
+  "ask": null,
+  "askVolume": null,
+  "vwap": null,
+  "open": null,
+  "close": null,
+  "last": null,
+  "previousClose": null,
+  "change": 0.0,
+  "percentage": null,
+  "average": null,
+  "baseVolume": 0.0,
+  "quoteVolume": 0.0,
+  "info": {
+   "a": [
+    "0.00000000",
+    "0",
+    "0.000"
+   ],
+   "b": [
+    "0.00000000",
+    "0",
+    "0.000"
+   ],
+   "c": [
+    "0.00000000",
+    "0.00000000"
+   ],
+   "v": [
+    "0.00000000",
+    "0.00000000"
+   ],
+   "p": [
+    "0.00000000",
+    "0.00000000"
+   ],
+   "t": [
+    "0",
+    "0"
+   ],
+   "l": [
+    "0.00000000",
+    "0.00000000"
+   ],
+   "h": [
+    "0.00000000",
+    "0.00000000"
+   ],
+   "o": "0.00000000"
+  }
+ },
+ "FLUXEUR": {
+  "symbol": "FLUXEUR",
+  "timestamp": 1696905009265,
+  "datetime": "2023-10-10T02:30:09.265Z",
+  "high": null,
+  "low": null,
+  "bid": null,
+  "bidVolume": null,
+  "ask": null,
+  "askVolume": null,
+  "vwap": null,
+  "open": null,
+  "close": null,
+  "last": null,
+  "previousClose": null,
+  "change": 0.0,
+  "percentage": null,
+  "average": null,
+  "baseVolume": 0.0,
+  "quoteVolume": 0.0,
+  "info": {
+   "a": [
+    "0.00000000",
+    "0",
+    "0.000"
+   ],
+   "b": [
+    "0.00000000",
+    "0",
+    "0.000"
+   ],
+   "c": [
+    "0.00000000",
+    "0.00000"
+   ],
+   "v": [
+    "0.00000",
+    "0.00000"
+   ],
+   "p": [
+    "0.00000000",
+    "0.00000000"
+   ],
+   "t": [
+    "0",
+    "0"
+   ],
+   "l": [
+    "0.00000000",
+    "0.00000000"
+   ],
+   "h": [
+    "0.00000000",
+    "0.00000000"
+   ],
+   "o": "0.00000000"
+  }
+ },
+ "FLUXUSD": {
+  "symbol": "FLUXUSD",
+  "timestamp": 1696905009265,
+  "datetime": "2023-10-10T02:30:09.265Z",
+  "high": null,
+  "low": null,
+  "bid": null,
+  "bidVolume": null,
+  "ask": null,
+  "askVolume": null,
+  "vwap": null,
+  "open": null,
+  "close": null,
+  "last": null,
+  "previousClose": null,
+  "change": 0.0,
+  "percentage": null,
+  "average": null,
+  "baseVolume": 0.0,
+  "quoteVolume": 0.0,
+  "info": {
+   "a": [
+    "0.00000000",
+    "0",
+    "0.000"
+   ],
+   "b": [
+    "0.00000000",
+    "0",
+    "0.000"
+   ],
+   "c": [
+    "0.00000000",
+    "0.00000"
+   ],
+   "v": [
+    "0.00000",
+    "0.00000"
+   ],
+   "p": [
+    "0.00000000",
+    "0.00000000"
+   ],
+   "t": [
+    "0",
+    "0"
+   ],
+   "l": [
+    "0.00000000",
+    "0.00000000"
+   ],
+   "h": [
+    "0.00000000",
+    "0.00000000"
+   ],
+   "o": "0.00000000"
+  }
+ },
+ "GEISTEUR": {
+  "symbol": "GEISTEUR",
+  "timestamp": 1696905009266,
+  "datetime": "2023-10-10T02:30:09.266Z",
+  "high": null,
+  "low": null,
+  "bid": null,
+  "bidVolume": null,
+  "ask": null,
+  "askVolume": null,
+  "vwap": null,
+  "open": null,
+  "close": null,
+  "last": null,
+  "previousClose": null,
+  "change": 0.0,
+  "percentage": null,
+  "average": null,
+  "baseVolume": 0.0,
+  "quoteVolume": 0.0,
+  "info": {
+   "a": [
+    "0.0000000000",
+    "0",
+    "0.000"
+   ],
+   "b": [
+    "0.0000000000",
+    "0",
+    "0.000"
+   ],
+   "c": [
+    "0.0000000000",
+    "0.00000000"
+   ],
+   "v": [
+    "0.00000000",
+    "0.00000000"
+   ],
+   "p": [
+    "0.0000000000",
+    "0.0000000000"
+   ],
+   "t": [
+    "0",
+    "0"
+   ],
+   "l": [
+    "0.0000000000",
+    "0.0000000000"
+   ],
+   "h": [
+    "0.0000000000",
+    "0.0000000000"
+   ],
+   "o": "0.0000000000"
+  }
+ },
+ "GEISTUSD": {
+  "symbol": "GEISTUSD",
+  "timestamp": 1696905009266,
+  "datetime": "2023-10-10T02:30:09.266Z",
+  "high": null,
+  "low": null,
+  "bid": null,
+  "bidVolume": null,
+  "ask": null,
+  "askVolume": null,
+  "vwap": null,
+  "open": null,
+  "close": null,
+  "last": null,
+  "previousClose": null,
+  "change": 0.0,
+  "percentage": null,
+  "average": null,
+  "baseVolume": 0.0,
+  "quoteVolume": 0.0,
+  "info": {
+   "a": [
+    "0.0000000000",
+    "0",
+    "0.000"
+   ],
+   "b": [
+    "0.0000000000",
+    "0",
+    "0.000"
+   ],
+   "c": [
+    "0.0000000000",
+    "0.00000000"
+   ],
+   "v": [
+    "0.00000000",
+    "0.00000000"
+   ],
+   "p": [
+    "0.0000000000",
+    "0.0000000000"
+   ],
+   "t": [
+    "0",
+    "0"
+   ],
+   "l": [
+    "0.0000000000",
+    "0.0000000000"
+   ],
+   "h": [
+    "0.0000000000",
+    "0.0000000000"
+   ],
+   "o": "0.0000000000"
+  }
+ },
+ "GNTETH": {
+  "symbol": "GNTETH",
+  "timestamp": 1696905009268,
+  "datetime": "2023-10-10T02:30:09.268Z",
+  "high": null,
+  "low": null,
+  "bid": null,
+  "bidVolume": null,
+  "ask": null,
+  "askVolume": null,
+  "vwap": null,
+  "open": null,
+  "close": null,
+  "last": null,
+  "previousClose": null,
+  "change": 0.0,
+  "percentage": null,
+  "average": null,
+  "baseVolume": 0.0,
+  "quoteVolume": 0.0,
+  "info": {
+   "a": [
+    "0.00000000",
+    "0",
+    "0.000"
+   ],
+   "b": [
+    "0.00000000",
+    "0",
+    "0.000"
+   ],
+   "c": [
+    "0.00000000",
+    "0.00000000"
+   ],
+   "v": [
+    "0.00000000",
+    "0.00000000"
+   ],
+   "p": [
+    "0.00000000",
+    "0.00000000"
+   ],
+   "t": [
+    "0",
+    "0"
+   ],
+   "l": [
+    "0.00000000",
+    "0.00000000"
+   ],
+   "h": [
+    "0.00000000",
+    "0.00000000"
+   ],
+   "o": "0.00000000"
+  }
+ },
+ "GNTEUR": {
+  "symbol": "GNTEUR",
+  "timestamp": 1696905009268,
+  "datetime": "2023-10-10T02:30:09.268Z",
+  "high": null,
+  "low": null,
+  "bid": null,
+  "bidVolume": null,
+  "ask": null,
+  "askVolume": null,
+  "vwap": null,
+  "open": null,
+  "close": null,
+  "last": null,
+  "previousClose": null,
+  "change": 0.0,
+  "percentage": null,
+  "average": null,
+  "baseVolume": 0.0,
+  "quoteVolume": 0.0,
+  "info": {
+   "a": [
+    "0.000000",
+    "0",
+    "0.000"
+   ],
+   "b": [
+    "0.000000",
+    "0",
+    "0.000"
+   ],
+   "c": [
+    "0.000000",
+    "0.00000000"
+   ],
+   "v": [
+    "0.00000000",
+    "0.00000000"
+   ],
+   "p": [
+    "0.000000",
+    "0.000000"
+   ],
+   "t": [
+    "0",
+    "0"
+   ],
+   "l": [
+    "0.000000",
+    "0.000000"
+   ],
+   "h": [
+    "0.000000",
+    "0.000000"
+   ],
+   "o": "0.000000"
+  }
+ },
+ "GNTUSD": {
+  "symbol": "GNTUSD",
+  "timestamp": 1696905009268,
+  "datetime": "2023-10-10T02:30:09.268Z",
+  "high": null,
+  "low": null,
+  "bid": null,
+  "bidVolume": null,
+  "ask": null,
+  "askVolume": null,
+  "vwap": null,
+  "open": null,
+  "close": null,
+  "last": null,
+  "previousClose": null,
+  "change": 0.0,
+  "percentage": null,
+  "average": null,
+  "baseVolume": 0.0,
+  "quoteVolume": 0.0,
+  "info": {
+   "a": [
+    "0.000000",
+    "0",
+    "0.000"
+   ],
+   "b": [
+    "0.000000",
+    "0",
+    "0.000"
+   ],
+   "c": [
+    "0.000000",
+    "0.00000000"
+   ],
+   "v": [
+    "0.00000000",
+    "0.00000000"
+   ],
+   "p": [
+    "0.000000",
+    "0.000000"
+   ],
+   "t": [
+    "0",
+    "0"
+   ],
+   "l": [
+    "0.000000",
+    "0.000000"
+   ],
+   "h": [
+    "0.000000",
+    "0.000000"
+   ],
+   "o": "0.000000"
+  }
+ },
+ "GNTXBT": {
+  "symbol": "GNTXBT",
+  "timestamp": 1696905009268,
+  "datetime": "2023-10-10T02:30:09.268Z",
+  "high": null,
+  "low": null,
+  "bid": null,
+  "bidVolume": null,
+  "ask": null,
+  "askVolume": null,
+  "vwap": null,
+  "open": null,
+  "close": null,
+  "last": null,
+  "previousClose": null,
+  "change": 0.0,
+  "percentage": null,
+  "average": null,
+  "baseVolume": 0.0,
+  "quoteVolume": 0.0,
+  "info": {
+   "a": [
+    "0.000000000",
+    "0",
+    "0.000"
+   ],
+   "b": [
+    "0.000000000",
+    "0",
+    "0.000"
+   ],
+   "c": [
+    "0.000000000",
+    "0.00000000"
+   ],
+   "v": [
+    "0.00000000",
+    "0.00000000"
+   ],
+   "p": [
+    "0.000000000",
+    "0.000000000"
+   ],
+   "t": [
+    "0",
+    "0"
+   ],
+   "l": [
+    "0.000000000",
+    "0.000000000"
+   ],
+   "h": [
+    "0.000000000",
+    "0.000000000"
+   ],
+   "o": "0.000000000"
+  }
+ },
+ "GOOEUR": {
+  "symbol": "GOOEUR",
+  "timestamp": 1696905009268,
+  "datetime": "2023-10-10T02:30:09.268Z",
+  "high": null,
+  "low": null,
+  "bid": null,
+  "bidVolume": null,
+  "ask": null,
+  "askVolume": null,
+  "vwap": null,
+  "open": null,
+  "close": null,
+  "last": null,
+  "previousClose": null,
+  "change": 0.0,
+  "percentage": null,
+  "average": null,
+  "baseVolume": 0.0,
+  "quoteVolume": 0.0,
+  "info": {
+   "a": [
+    "0.00000000",
+    "0",
+    "0.000"
+   ],
+   "b": [
+    "0.00000000",
+    "0",
+    "0.000"
+   ],
+   "c": [
+    "0.00000000",
+    "0.00000"
+   ],
+   "v": [
+    "0.00000",
+    "0.00000"
+   ],
+   "p": [
+    "0.00000000",
+    "0.00000000"
+   ],
+   "t": [
+    "0",
+    "0"
+   ],
+   "l": [
+    "0.00000000",
+    "0.00000000"
+   ],
+   "h": [
+    "0.00000000",
+    "0.00000000"
+   ],
+   "o": "0.00000000"
+  }
+ },
+ "GOOUSD": {
+  "symbol": "GOOUSD",
+  "timestamp": 1696905009268,
+  "datetime": "2023-10-10T02:30:09.268Z",
+  "high": null,
+  "low": null,
+  "bid": null,
+  "bidVolume": null,
+  "ask": null,
+  "askVolume": null,
+  "vwap": null,
+  "open": null,
+  "close": null,
+  "last": null,
+  "previousClose": null,
+  "change": 0.0,
+  "percentage": null,
+  "average": null,
+  "baseVolume": 0.0,
+  "quoteVolume": 0.0,
+  "info": {
+   "a": [
+    "0.00000000",
+    "0",
+    "0.000"
+   ],
+   "b": [
+    "0.00000000",
+    "0",
+    "0.000"
+   ],
+   "c": [
+    "0.00000000",
+    "0.00000"
+   ],
+   "v": [
+    "0.00000",
+    "0.00000"
+   ],
+   "p": [
+    "0.00000000",
+    "0.00000000"
+   ],
+   "t": [
+    "0",
+    "0"
+   ],
+   "l": [
+    "0.00000000",
+    "0.00000000"
+   ],
+   "h": [
+    "0.00000000",
+    "0.00000000"
+   ],
+   "o": "0.00000000"
+  }
+ },
+ "LOOKSEUR": {
+  "symbol": "LOOKSEUR",
+  "timestamp": 1696905009276,
+  "datetime": "2023-10-10T02:30:09.276Z",
+  "high": null,
+  "low": null,
+  "bid": null,
+  "bidVolume": null,
+  "ask": null,
+  "askVolume": null,
+  "vwap": null,
+  "open": null,
+  "close": null,
+  "last": null,
+  "previousClose": null,
+  "change": 0.0,
+  "percentage": null,
+  "average": null,
+  "baseVolume": 0.0,
+  "quoteVolume": 0.0,
+  "info": {
+   "a": [
+    "0.00000000",
+    "0",
+    "0.000"
+   ],
+   "b": [
+    "0.00000000",
+    "0",
+    "0.000"
+   ],
+   "c": [
+    "0.00000000",
+    "0.00000000"
+   ],
+   "v": [
+    "0.00000000",
+    "0.00000000"
+   ],
+   "p": [
+    "0.00000000",
+    "0.00000000"
+   ],
+   "t": [
+    "0",
+    "0"
+   ],
+   "l": [
+    "0.00000000",
+    "0.00000000"
+   ],
+   "h": [
+    "0.00000000",
+    "0.00000000"
+   ],
+   "o": "0.00000000"
+  }
+ },
+ "LOOKSUSD": {
+  "symbol": "LOOKSUSD",
+  "timestamp": 1696905009276,
+  "datetime": "2023-10-10T02:30:09.276Z",
+  "high": null,
+  "low": null,
+  "bid": null,
+  "bidVolume": null,
+  "ask": null,
+  "askVolume": null,
+  "vwap": null,
+  "open": null,
+  "close": null,
+  "last": null,
+  "previousClose": null,
+  "change": 0.0,
+  "percentage": null,
+  "average": null,
+  "baseVolume": 0.0,
+  "quoteVolume": 0.0,
+  "info": {
+   "a": [
+    "0.00000000",
+    "0",
+    "0.000"
+   ],
+   "b": [
+    "0.00000000",
+    "0",
+    "0.000"
+   ],
+   "c": [
+    "0.00000000",
+    "0.00000000"
+   ],
+   "v": [
+    "0.00000000",
+    "0.00000000"
+   ],
+   "p": [
+    "0.00000000",
+    "0.00000000"
+   ],
+   "t": [
+    "0",
+    "0"
+   ],
+   "l": [
+    "0.00000000",
+    "0.00000000"
+   ],
+   "h": [
+    "0.00000000",
+    "0.00000000"
+   ],
+   "o": "0.00000000"
+  }
+ },
+ "LTCCHF": {
+  "symbol": "LTCCHF",
+  "timestamp": 1696905009278,
+  "datetime": "2023-10-10T02:30:09.278Z",
+  "high": null,
+  "low": null,
+  "bid": null,
+  "bidVolume": null,
+  "ask": null,
+  "askVolume": null,
+  "vwap": null,
+  "open": null,
+  "close": null,
+  "last": null,
+  "previousClose": null,
+  "change": 0.0,
+  "percentage": null,
+  "average": null,
+  "baseVolume": 0.0,
+  "quoteVolume": 0.0,
+  "info": {
+   "a": [
+    "0.000000",
+    "0",
+    "0.000"
+   ],
+   "b": [
+    "0.000000",
+    "0",
+    "0.000"
+   ],
+   "c": [
+    "0.000000",
+    "0.00000000"
+   ],
+   "v": [
+    "0.00000000",
+    "0.00000000"
+   ],
+   "p": [
+    "0.000000",
+    "0.000000"
+   ],
+   "t": [
+    "0",
+    "0"
+   ],
+   "l": [
+    "0.000000",
+    "0.000000"
+   ],
+   "h": [
+    "0.000000",
+    "0.000000"
+   ],
+   "o": "0.000000"
+  }
+ },
+ "MOONETH": {
+  "symbol": "MOONETH",
+  "timestamp": 1696905009283,
+  "datetime": "2023-10-10T02:30:09.283Z",
+  "high": null,
+  "low": null,
+  "bid": null,
+  "bidVolume": null,
+  "ask": null,
+  "askVolume": null,
+  "vwap": null,
+  "open": null,
+  "close": null,
+  "last": null,
+  "previousClose": null,
+  "change": 0.0,
+  "percentage": null,
+  "average": null,
+  "baseVolume": 0.0,
+  "quoteVolume": 0.0,
+  "info": {
+   "a": [
+    "0.00000000000",
+    "0",
+    "0.000"
+   ],
+   "b": [
+    "0.00000000000",
+    "0",
+    "0.000"
+   ],
+   "c": [
+    "0.00000000000",
+    "0.00000000"
+   ],
+   "v": [
+    "0.00000000",
+    "0.00000000"
+   ],
+   "p": [
+    "0.00000000000",
+    "0.00000000000"
+   ],
+   "t": [
+    "0",
+    "0"
+   ],
+   "l": [
+    "0.00000000000",
+    "0.00000000000"
+   ],
+   "h": [
+    "0.00000000000",
+    "0.00000000000"
+   ],
+   "o": "0.00000000000"
+  }
+ },
+ "NESTEUR": {
+  "symbol": "NESTEUR",
+  "timestamp": 1696905009285,
+  "datetime": "2023-10-10T02:30:09.285Z",
+  "high": null,
+  "low": null,
+  "bid": null,
+  "bidVolume": null,
+  "ask": null,
+  "askVolume": null,
+  "vwap": null,
+  "open": null,
+  "close": null,
+  "last": null,
+  "previousClose": null,
+  "change": 0.0,
+  "percentage": null,
+  "average": null,
+  "baseVolume": 0.0,
+  "quoteVolume": 0.0,
+  "info": {
+   "a": [
+    "0.000000000",
+    "0",
+    "0.000"
+   ],
+   "b": [
+    "0.000000000",
+    "0",
+    "0.000"
+   ],
+   "c": [
+    "0.000000000",
+    "0.00000000"
+   ],
+   "v": [
+    "0.00000000",
+    "0.00000000"
+   ],
+   "p": [
+    "0.000000000",
+    "0.000000000"
+   ],
+   "t": [
+    "0",
+    "0"
+   ],
+   "l": [
+    "0.000000000",
+    "0.000000000"
+   ],
+   "h": [
+    "0.000000000",
+    "0.000000000"
+   ],
+   "o": "0.000000000"
+  }
+ },
+ "NESTUSD": {
+  "symbol": "NESTUSD",
+  "timestamp": 1696905009285,
+  "datetime": "2023-10-10T02:30:09.285Z",
+  "high": null,
+  "low": null,
+  "bid": null,
+  "bidVolume": null,
+  "ask": null,
+  "askVolume": null,
+  "vwap": null,
+  "open": null,
+  "close": null,
+  "last": null,
+  "previousClose": null,
+  "change": 0.0,
+  "percentage": null,
+  "average": null,
+  "baseVolume": 0.0,
+  "quoteVolume": 0.0,
+  "info": {
+   "a": [
+    "0.000000000",
+    "0",
+    "0.000"
+   ],
+   "b": [
+    "0.000000000",
+    "0",
+    "0.000"
+   ],
+   "c": [
+    "0.000000000",
+    "0.00000000"
+   ],
+   "v": [
+    "0.00000000",
+    "0.00000000"
+   ],
+   "p": [
+    "0.000000000",
+    "0.000000000"
+   ],
+   "t": [
+    "0",
+    "0"
+   ],
+   "l": [
+    "0.000000000",
+    "0.000000000"
+   ],
+   "h": [
+    "0.000000000",
+    "0.000000000"
+   ],
+   "o": "0.000000000"
+  }
+ },
+ "PEOPLEEUR": {
+  "symbol": "PEOPLEEUR",
+  "timestamp": 1696905009289,
+  "datetime": "2023-10-10T02:30:09.289Z",
+  "high": null,
+  "low": null,
+  "bid": null,
+  "bidVolume": null,
+  "ask": null,
+  "askVolume": null,
+  "vwap": null,
+  "open": null,
+  "close": null,
+  "last": null,
+  "previousClose": null,
+  "change": 0.0,
+  "percentage": null,
+  "average": null,
+  "baseVolume": 0.0,
+  "quoteVolume": 0.0,
+  "info": {
+   "a": [
+    "0.0000000000",
+    "0",
+    "0.000"
+   ],
+   "b": [
+    "0.0000000000",
+    "0",
+    "0.000"
+   ],
+   "c": [
+    "0.0000000000",
+    "0.00000000"
+   ],
+   "v": [
+    "0.00000000",
+    "0.00000000"
+   ],
+   "p": [
+    "0.0000000000",
+    "0.0000000000"
+   ],
+   "t": [
+    "0",
+    "0"
+   ],
+   "l": [
+    "0.0000000000",
+    "0.0000000000"
+   ],
+   "h": [
+    "0.0000000000",
+    "0.0000000000"
+   ],
+   "o": "0.0000000000"
+  }
+ },
+ "PEOPLEUSD": {
+  "symbol": "PEOPLEUSD",
+  "timestamp": 1696905009289,
+  "datetime": "2023-10-10T02:30:09.289Z",
+  "high": null,
+  "low": null,
+  "bid": null,
+  "bidVolume": null,
+  "ask": null,
+  "askVolume": null,
+  "vwap": null,
+  "open": null,
+  "close": null,
+  "last": null,
+  "previousClose": null,
+  "change": 0.0,
+  "percentage": null,
+  "average": null,
+  "baseVolume": 0.0,
+  "quoteVolume": 0.0,
+  "info": {
+   "a": [
+    "0.0000000000",
+    "0",
+    "0.000"
+   ],
+   "b": [
+    "0.0000000000",
+    "0",
+    "0.000"
+   ],
+   "c": [
+    "0.0000000000",
+    "0.00000000"
+   ],
+   "v": [
+    "0.00000000",
+    "0.00000000"
+   ],
+   "p": [
+    "0.0000000000",
+    "0.0000000000"
+   ],
+   "t": [
+    "0",
+    "0"
+   ],
+   "l": [
+    "0.0000000000",
+    "0.0000000000"
+   ],
+   "h": [
+    "0.0000000000",
+    "0.0000000000"
+   ],
+   "o": "0.0000000000"
+  }
+ },
+ "RMRKEUR": {
+  "symbol": "RMRKEUR",
+  "timestamp": 1696905009295,
+  "datetime": "2023-10-10T02:30:09.295Z",
+  "high": null,
+  "low": null,
+  "bid": null,
+  "bidVolume": null,
+  "ask": null,
+  "askVolume": null,
+  "vwap": null,
+  "open": null,
+  "close": null,
+  "last": null,
+  "previousClose": null,
+  "change": 0.0,
+  "percentage": null,
+  "average": null,
+  "baseVolume": 0.0,
+  "quoteVolume": 0.0,
+  "info": {
+   "a": [
+    "0.0000000",
+    "0",
+    "0.000"
+   ],
+   "b": [
+    "0.0000000",
+    "0",
+    "0.000"
+   ],
+   "c": [
+    "0.0000000",
+    "0.00000000"
+   ],
+   "v": [
+    "0.00000000",
+    "0.00000000"
+   ],
+   "p": [
+    "0.0000000",
+    "0.0000000"
+   ],
+   "t": [
+    "0",
+    "0"
+   ],
+   "l": [
+    "0.0000000",
+    "0.0000000"
+   ],
+   "h": [
+    "0.0000000",
+    "0.0000000"
+   ],
+   "o": "0.0000000"
+  }
+ },
+ "RMRKUSD": {
+  "symbol": "RMRKUSD",
+  "timestamp": 1696905009295,
+  "datetime": "2023-10-10T02:30:09.295Z",
+  "high": null,
+  "low": null,
+  "bid": null,
+  "bidVolume": null,
+  "ask": null,
+  "askVolume": null,
+  "vwap": null,
+  "open": null,
+  "close": null,
+  "last": null,
+  "previousClose": null,
+  "change": 0.0,
+  "percentage": null,
+  "average": null,
+  "baseVolume": 0.0,
+  "quoteVolume": 0.0,
+  "info": {
+   "a": [
+    "0.0000000",
+    "0",
+    "0.000"
+   ],
+   "b": [
+    "0.0000000",
+    "0",
+    "0.000"
+   ],
+   "c": [
+    "0.0000000",
+    "0.00000000"
+   ],
+   "v": [
+    "0.00000000",
+    "0.00000000"
+   ],
+   "p": [
+    "0.0000000",
+    "0.0000000"
+   ],
+   "t": [
+    "0",
+    "0"
+   ],
+   "l": [
+    "0.0000000",
+    "0.0000000"
+   ],
+   "h": [
+    "0.0000000",
+    "0.0000000"
+   ],
+   "o": "0.0000000"
+  }
+ },
+ "RONEUR": {
+  "symbol": "RONEUR",
+  "timestamp": 1696905009295,
+  "datetime": "2023-10-10T02:30:09.295Z",
+  "high": null,
+  "low": null,
+  "bid": null,
+  "bidVolume": null,
+  "ask": null,
+  "askVolume": null,
+  "vwap": null,
+  "open": null,
+  "close": null,
+  "last": null,
+  "previousClose": null,
+  "change": 0.0,
+  "percentage": null,
+  "average": null,
+  "baseVolume": 0.0,
+  "quoteVolume": 0.0,
+  "info": {
+   "a": [
+    "0.00000000",
+    "0",
+    "0.000"
+   ],
+   "b": [
+    "0.00000000",
+    "0",
+    "0.000"
+   ],
+   "c": [
+    "0.00000000",
+    "0.00000000"
+   ],
+   "v": [
+    "0.00000000",
+    "0.00000000"
+   ],
+   "p": [
+    "0.00000000",
+    "0.00000000"
+   ],
+   "t": [
+    "0",
+    "0"
+   ],
+   "l": [
+    "0.00000000",
+    "0.00000000"
+   ],
+   "h": [
+    "0.00000000",
+    "0.00000000"
+   ],
+   "o": "0.00000000"
+  }
+ },
+ "RONUSD": {
+  "symbol": "RONUSD",
+  "timestamp": 1696905009295,
+  "datetime": "2023-10-10T02:30:09.295Z",
+  "high": null,
+  "low": null,
+  "bid": null,
+  "bidVolume": null,
+  "ask": null,
+  "askVolume": null,
+  "vwap": null,
+  "open": null,
+  "close": null,
+  "last": null,
+  "previousClose": null,
+  "change": 0.0,
+  "percentage": null,
+  "average": null,
+  "baseVolume": 0.0,
+  "quoteVolume": 0.0,
+  "info": {
+   "a": [
+    "0.00000000",
+    "0",
+    "0.000"
+   ],
+   "b": [
+    "0.00000000",
+    "0",
+    "0.000"
+   ],
+   "c": [
+    "0.00000000",
+    "0.00000000"
+   ],
+   "v": [
+    "0.00000000",
+    "0.00000000"
+   ],
+   "p": [
+    "0.00000000",
+    "0.00000000"
+   ],
+   "t": [
+    "0",
+    "0"
+   ],
+   "l": [
+    "0.00000000",
+    "0.00000000"
+   ],
+   "h": [
+    "0.00000000",
+    "0.00000000"
+   ],
+   "o": "0.00000000"
+  }
+ },
+ "SLPEUR": {
+  "symbol": "SLPEUR",
+  "timestamp": 1696905009299,
+  "datetime": "2023-10-10T02:30:09.299Z",
+  "high": null,
+  "low": null,
+  "bid": null,
+  "bidVolume": null,
+  "ask": null,
+  "askVolume": null,
+  "vwap": null,
+  "open": null,
+  "close": null,
+  "last": null,
+  "previousClose": null,
+  "change": 0.0,
+  "percentage": null,
+  "average": null,
+  "baseVolume": 0.0,
+  "quoteVolume": 0.0,
+  "info": {
+   "a": [
+    "0.0000000000",
+    "0",
+    "0.000"
+   ],
+   "b": [
+    "0.0000000000",
+    "0",
+    "0.000"
+   ],
+   "c": [
+    "0.0000000000",
+    "0.00000000"
+   ],
+   "v": [
+    "0.00000000",
+    "0.00000000"
+   ],
+   "p": [
+    "0.0000000000",
+    "0.0000000000"
+   ],
+   "t": [
+    "0",
+    "0"
+   ],
+   "l": [
+    "0.0000000000",
+    "0.0000000000"
+   ],
+   "h": [
+    "0.0000000000",
+    "0.0000000000"
+   ],
+   "o": "0.0000000000"
+  }
+ },
+ "SLPUSD": {
+  "symbol": "SLPUSD",
+  "timestamp": 1696905009299,
+  "datetime": "2023-10-10T02:30:09.299Z",
+  "high": null,
+  "low": null,
+  "bid": null,
+  "bidVolume": null,
+  "ask": null,
+  "askVolume": null,
+  "vwap": null,
+  "open": null,
+  "close": null,
+  "last": null,
+  "previousClose": null,
+  "change": 0.0,
+  "percentage": null,
+  "average": null,
+  "baseVolume": 0.0,
+  "quoteVolume": 0.0,
+  "info": {
+   "a": [
+    "0.0000000000",
+    "0",
+    "0.000"
+   ],
+   "b": [
+    "0.0000000000",
+    "0",
+    "0.000"
+   ],
+   "c": [
+    "0.0000000000",
+    "0.00000000"
+   ],
+   "v": [
+    "0.00000000",
+    "0.00000000"
+   ],
+   "p": [
+    "0.0000000000",
+    "0.0000000000"
+   ],
+   "t": [
+    "0",
+    "0"
+   ],
+   "l": [
+    "0.0000000000",
+    "0.0000000000"
+   ],
+   "h": [
+    "0.0000000000",
+    "0.0000000000"
+   ],
+   "o": "0.0000000000"
+  }
+ },
+ "SSVEUR": {
+  "symbol": "SSVEUR",
+  "timestamp": 1696905009300,
+  "datetime": "2023-10-10T02:30:09.300Z",
+  "high": null,
+  "low": null,
+  "bid": null,
+  "bidVolume": null,
+  "ask": null,
+  "askVolume": null,
+  "vwap": null,
+  "open": null,
+  "close": null,
+  "last": null,
+  "previousClose": null,
+  "change": 0.0,
+  "percentage": null,
+  "average": null,
+  "baseVolume": 0.0,
+  "quoteVolume": 0.0,
+  "info": {
+   "a": [
+    "0.0000000",
+    "0",
+    "0.000"
+   ],
+   "b": [
+    "0.0000000",
+    "0",
+    "0.000"
+   ],
+   "c": [
+    "0.0000000",
+    "0.00000000"
+   ],
+   "v": [
+    "0.00000000",
+    "0.00000000"
+   ],
+   "p": [
+    "0.0000000",
+    "0.0000000"
+   ],
+   "t": [
+    "0",
+    "0"
+   ],
+   "l": [
+    "0.0000000",
+    "0.0000000"
+   ],
+   "h": [
+    "0.0000000",
+    "0.0000000"
+   ],
+   "o": "0.0000000"
+  }
+ },
+ "SSVUSD": {
+  "symbol": "SSVUSD",
+  "timestamp": 1696905009300,
+  "datetime": "2023-10-10T02:30:09.300Z",
+  "high": null,
+  "low": null,
+  "bid": null,
+  "bidVolume": null,
+  "ask": null,
+  "askVolume": null,
+  "vwap": null,
+  "open": null,
+  "close": null,
+  "last": null,
+  "previousClose": null,
+  "change": 0.0,
+  "percentage": null,
+  "average": null,
+  "baseVolume": 0.0,
+  "quoteVolume": 0.0,
+  "info": {
+   "a": [
+    "0.0000000",
+    "0",
+    "0.000"
+   ],
+   "b": [
+    "0.0000000",
+    "0",
+    "0.000"
+   ],
+   "c": [
+    "0.0000000",
+    "0.00000000"
+   ],
+   "v": [
+    "0.00000000",
+    "0.00000000"
+   ],
+   "p": [
+    "0.0000000",
+    "0.0000000"
+   ],
+   "t": [
+    "0",
+    "0"
+   ],
+   "l": [
+    "0.0000000",
+    "0.0000000"
+   ],
+   "h": [
+    "0.0000000",
+    "0.0000000"
+   ],
+   "o": "0.0000000"
+  }
+ },
+ "STRONGEUR": {
+  "symbol": "STRONGEUR",
+  "timestamp": 1696905009301,
+  "datetime": "2023-10-10T02:30:09.301Z",
+  "high": null,
+  "low": null,
+  "bid": null,
+  "bidVolume": null,
+  "ask": null,
+  "askVolume": null,
+  "vwap": null,
+  "open": null,
+  "close": null,
+  "last": null,
+  "previousClose": null,
+  "change": 0.0,
+  "percentage": null,
+  "average": null,
+  "baseVolume": 0.0,
+  "quoteVolume": 0.0,
+  "info": {
+   "a": [
+    "0.0000000",
+    "0",
+    "0.000"
+   ],
+   "b": [
+    "0.0000000",
+    "0",
+    "0.000"
+   ],
+   "c": [
+    "0.0000000",
+    "0.00000000"
+   ],
+   "v": [
+    "0.00000000",
+    "0.00000000"
+   ],
+   "p": [
+    "0.0000000",
+    "0.0000000"
+   ],
+   "t": [
+    "0",
+    "0"
+   ],
+   "l": [
+    "0.0000000",
+    "0.0000000"
+   ],
+   "h": [
+    "0.0000000",
+    "0.0000000"
+   ],
+   "o": "0.0000000"
+  }
+ },
+ "STRONGUSD": {
+  "symbol": "STRONGUSD",
+  "timestamp": 1696905009301,
+  "datetime": "2023-10-10T02:30:09.301Z",
+  "high": null,
+  "low": null,
+  "bid": null,
+  "bidVolume": null,
+  "ask": null,
+  "askVolume": null,
+  "vwap": null,
+  "open": null,
+  "close": null,
+  "last": null,
+  "previousClose": null,
+  "change": 0.0,
+  "percentage": null,
+  "average": null,
+  "baseVolume": 0.0,
+  "quoteVolume": 0.0,
+  "info": {
+   "a": [
+    "0.0000000",
+    "0",
+    "0.000"
+   ],
+   "b": [
+    "0.0000000",
+    "0",
+    "0.000"
+   ],
+   "c": [
+    "0.0000000",
+    "0.00000000"
+   ],
+   "v": [
+    "0.00000000",
+    "0.00000000"
+   ],
+   "p": [
+    "0.0000000",
+    "0.0000000"
+   ],
+   "t": [
+    "0",
+    "0"
+   ],
+   "l": [
+    "0.0000000",
+    "0.0000000"
+   ],
+   "h": [
+    "0.0000000",
+    "0.0000000"
+   ],
+   "o": "0.0000000"
+  }
+ },
+ "SXPEUR": {
+  "symbol": "SXPEUR",
+  "timestamp": 1696905009302,
+  "datetime": "2023-10-10T02:30:09.302Z",
+  "high": null,
+  "low": null,
+  "bid": null,
+  "bidVolume": null,
+  "ask": null,
+  "askVolume": null,
+  "vwap": null,
+  "open": null,
+  "close": null,
+  "last": null,
+  "previousClose": null,
+  "change": 0.0,
+  "percentage": null,
+  "average": null,
+  "baseVolume": 0.0,
+  "quoteVolume": 0.0,
+  "info": {
+   "a": [
+    "0.00000000",
+    "0",
+    "0.000"
+   ],
+   "b": [
+    "0.00000000",
+    "0",
+    "0.000"
+   ],
+   "c": [
+    "0.00000000",
+    "0.00000000"
+   ],
+   "v": [
+    "0.00000000",
+    "0.00000000"
+   ],
+   "p": [
+    "0.00000000",
+    "0.00000000"
+   ],
+   "t": [
+    "0",
+    "0"
+   ],
+   "l": [
+    "0.00000000",
+    "0.00000000"
+   ],
+   "h": [
+    "0.00000000",
+    "0.00000000"
+   ],
+   "o": "0.00000000"
+  }
+ },
+ "SXPUSD": {
+  "symbol": "SXPUSD",
+  "timestamp": 1696905009303,
+  "datetime": "2023-10-10T02:30:09.303Z",
+  "high": null,
+  "low": null,
+  "bid": null,
+  "bidVolume": null,
+  "ask": null,
+  "askVolume": null,
+  "vwap": null,
+  "open": null,
+  "close": null,
+  "last": null,
+  "previousClose": null,
+  "change": 0.0,
+  "percentage": null,
+  "average": null,
+  "baseVolume": 0.0,
+  "quoteVolume": 0.0,
+  "info": {
+   "a": [
+    "0.00000000",
+    "0",
+    "0.000"
+   ],
+   "b": [
+    "0.00000000",
+    "0",
+    "0.000"
+   ],
+   "c": [
+    "0.00000000",
+    "0.00000000"
+   ],
+   "v": [
+    "0.00000000",
+    "0.00000000"
+   ],
+   "p": [
+    "0.00000000",
+    "0.00000000"
+   ],
+   "t": [
+    "0",
+    "0"
+   ],
+   "l": [
+    "0.00000000",
+    "0.00000000"
+   ],
+   "h": [
+    "0.00000000",
+    "0.00000000"
+   ],
+   "o": "0.00000000"
+  }
+ },
+ "TRBEUR": {
+  "symbol": "TRBEUR",
+  "timestamp": 1696905009304,
+  "datetime": "2023-10-10T02:30:09.304Z",
+  "high": null,
+  "low": null,
+  "bid": null,
+  "bidVolume": null,
+  "ask": null,
+  "askVolume": null,
+  "vwap": null,
+  "open": null,
+  "close": null,
+  "last": null,
+  "previousClose": null,
+  "change": 0.0,
+  "percentage": null,
+  "average": null,
+  "baseVolume": 0.0,
+  "quoteVolume": 0.0,
+  "info": {
+   "a": [
+    "0.0000000",
+    "0",
+    "0.000"
+   ],
+   "b": [
+    "0.0000000",
+    "0",
+    "0.000"
+   ],
+   "c": [
+    "0.0000000",
+    "0.00000000"
+   ],
+   "v": [
+    "0.00000000",
+    "0.00000000"
+   ],
+   "p": [
+    "0.0000000",
+    "0.0000000"
+   ],
+   "t": [
+    "0",
+    "0"
+   ],
+   "l": [
+    "0.0000000",
+    "0.0000000"
+   ],
+   "h": [
+    "0.0000000",
+    "0.0000000"
+   ],
+   "o": "0.0000000"
+  }
+ },
+ "TRBUSD": {
+  "symbol": "TRBUSD",
+  "timestamp": 1696905009304,
+  "datetime": "2023-10-10T02:30:09.304Z",
+  "high": null,
+  "low": null,
+  "bid": null,
+  "bidVolume": null,
+  "ask": null,
+  "askVolume": null,
+  "vwap": null,
+  "open": null,
+  "close": null,
+  "last": null,
+  "previousClose": null,
+  "change": 0.0,
+  "percentage": null,
+  "average": null,
+  "baseVolume": 0.0,
+  "quoteVolume": 0.0,
+  "info": {
+   "a": [
+    "0.0000000",
+    "0",
+    "0.000"
+   ],
+   "b": [
+    "0.0000000",
+    "0",
+    "0.000"
+   ],
+   "c": [
+    "0.0000000",
+    "0.00000000"
+   ],
+   "v": [
+    "0.00000000",
+    "0.00000000"
+   ],
+   "p": [
+    "0.0000000",
+    "0.0000000"
+   ],
+   "t": [
+    "0",
+    "0"
+   ],
+   "l": [
+    "0.0000000",
+    "0.0000000"
+   ],
+   "h": [
+    "0.0000000",
+    "0.0000000"
+   ],
+   "o": "0.0000000"
+  }
+ },
+ "USDBRL": {
+  "symbol": "USDBRL",
+  "timestamp": 1696905009306,
+  "datetime": "2023-10-10T02:30:09.306Z",
+  "high": null,
+  "low": null,
+  "bid": null,
+  "bidVolume": null,
+  "ask": null,
+  "askVolume": null,
+  "vwap": null,
+  "open": null,
+  "close": null,
+  "last": null,
+  "previousClose": null,
+  "change": 0.0,
+  "percentage": null,
+  "average": null,
+  "baseVolume": 0.0,
+  "quoteVolume": 0.0,
+  "info": {
+   "a": [
+    "0.000000",
+    "0",
+    "0.000"
+   ],
+   "b": [
+    "0.000000",
+    "0",
+    "0.000"
+   ],
+   "c": [
+    "0.000000",
+    "0.00000000"
+   ],
+   "v": [
+    "0.00000000",
+    "0.00000000"
+   ],
+   "p": [
+    "0.000000",
+    "0.000000"
+   ],
+   "t": [
+    "0",
+    "0"
+   ],
+   "l": [
+    "0.000000",
+    "0.000000"
+   ],
+   "h": [
+    "0.000000",
+    "0.000000"
+   ],
+   "o": "0.000000"
+  }
+ },
+ "USDTBRL": {
+  "symbol": "USDTBRL",
+  "timestamp": 1696905009310,
+  "datetime": "2023-10-10T02:30:09.310Z",
+  "high": null,
+  "low": null,
+  "bid": null,
+  "bidVolume": null,
+  "ask": null,
+  "askVolume": null,
+  "vwap": null,
+  "open": null,
+  "close": null,
+  "last": null,
+  "previousClose": null,
+  "change": 0.0,
+  "percentage": null,
+  "average": null,
+  "baseVolume": 0.0,
+  "quoteVolume": 0.0,
+  "info": {
+   "a": [
+    "0.0000000",
+    "0",
+    "0.000"
+   ],
+   "b": [
+    "0.0000000",
+    "0",
+    "0.000"
+   ],
+   "c": [
+    "0.0000000",
+    "0.00000000"
+   ],
+   "v": [
+    "0.00000000",
+    "0.00000000"
+   ],
+   "p": [
+    "0.0000000",
+    "0.0000000"
+   ],
+   "t": [
+    "0",
+    "0"
+   ],
+   "l": [
+    "0.0000000",
+    "0.0000000"
+   ],
+   "h": [
+    "0.0000000",
+    "0.0000000"
+   ],
+   "o": "0.0000000"
+  }
+ },
+ "WAXPEUR": {
+  "symbol": "WAXPEUR",
+  "timestamp": 1696905009313,
+  "datetime": "2023-10-10T02:30:09.313Z",
+  "high": null,
+  "low": null,
+  "bid": null,
+  "bidVolume": null,
+  "ask": null,
+  "askVolume": null,
+  "vwap": null,
+  "open": null,
+  "close": null,
+  "last": null,
+  "previousClose": null,
+  "change": 0.0,
+  "percentage": null,
+  "average": null,
+  "baseVolume": 0.0,
+  "quoteVolume": 0.0,
+  "info": {
+   "a": [
+    "0.000000000",
+    "0",
+    "0.000"
+   ],
+   "b": [
+    "0.000000000",
+    "0",
+    "0.000"
+   ],
+   "c": [
+    "0.000000000",
+    "0.00000000"
+   ],
+   "v": [
+    "0.00000000",
+    "0.00000000"
+   ],
+   "p": [
+    "0.000000000",
+    "0.000000000"
+   ],
+   "t": [
+    "0",
+    "0"
+   ],
+   "l": [
+    "0.000000000",
+    "0.000000000"
+   ],
+   "h": [
+    "0.000000000",
+    "0.000000000"
+   ],
+   "o": "0.000000000"
+  }
+ },
+ "WAXPUSD": {
+  "symbol": "WAXPUSD",
+  "timestamp": 1696905009313,
+  "datetime": "2023-10-10T02:30:09.313Z",
+  "high": null,
+  "low": null,
+  "bid": null,
+  "bidVolume": null,
+  "ask": null,
+  "askVolume": null,
+  "vwap": null,
+  "open": null,
+  "close": null,
+  "last": null,
+  "previousClose": null,
+  "change": 0.0,
+  "percentage": null,
+  "average": null,
+  "baseVolume": 0.0,
+  "quoteVolume": 0.0,
+  "info": {
+   "a": [
+    "0.000000000",
+    "0",
+    "0.000"
+   ],
+   "b": [
+    "0.000000000",
+    "0",
+    "0.000"
+   ],
+   "c": [
+    "0.000000000",
+    "0.00000000"
+   ],
+   "v": [
+    "0.00000000",
+    "0.00000000"
+   ],
+   "p": [
+    "0.000000000",
+    "0.000000000"
+   ],
+   "t": [
+    "0",
+    "0"
+   ],
+   "l": [
+    "0.000000000",
+    "0.000000000"
+   ],
+   "h": [
+    "0.000000000",
+    "0.000000000"
+   ],
+   "o": "0.000000000"
+  }
+ },
+ "WNXMEUR": {
+  "symbol": "WNXMEUR",
+  "timestamp": 1696905009314,
+  "datetime": "2023-10-10T02:30:09.314Z",
+  "high": null,
+  "low": null,
+  "bid": null,
+  "bidVolume": null,
+  "ask": null,
+  "askVolume": null,
+  "vwap": null,
+  "open": null,
+  "close": null,
+  "last": null,
+  "previousClose": null,
+  "change": 0.0,
+  "percentage": null,
+  "average": null,
+  "baseVolume": 0.0,
+  "quoteVolume": 0.0,
+  "info": {
+   "a": [
+    "0.0000000",
+    "0",
+    "0.000"
+   ],
+   "b": [
+    "0.0000000",
+    "0",
+    "0.000"
+   ],
+   "c": [
+    "0.0000000",
+    "0.00000000"
+   ],
+   "v": [
+    "0.00000000",
+    "0.00000000"
+   ],
+   "p": [
+    "0.0000000",
+    "0.0000000"
+   ],
+   "t": [
+    "0",
+    "0"
+   ],
+   "l": [
+    "0.0000000",
+    "0.0000000"
+   ],
+   "h": [
+    "0.0000000",
+    "0.0000000"
+   ],
+   "o": "0.0000000"
+  }
+ },
+ "WNXMUSD": {
+  "symbol": "WNXMUSD",
+  "timestamp": 1696905009314,
+  "datetime": "2023-10-10T02:30:09.314Z",
+  "high": null,
+  "low": null,
+  "bid": null,
+  "bidVolume": null,
+  "ask": null,
+  "askVolume": null,
+  "vwap": null,
+  "open": null,
+  "close": null,
+  "last": null,
+  "previousClose": null,
+  "change": 0.0,
+  "percentage": null,
+  "average": null,
+  "baseVolume": 0.0,
+  "quoteVolume": 0.0,
+  "info": {
+   "a": [
+    "0.0000000",
+    "0",
+    "0.000"
+   ],
+   "b": [
+    "0.0000000",
+    "0",
+    "0.000"
+   ],
+   "c": [
+    "0.0000000",
+    "0.00000000"
+   ],
+   "v": [
+    "0.00000000",
+    "0.00000000"
+   ],
+   "p": [
+    "0.0000000",
+    "0.0000000"
+   ],
+   "t": [
+    "0",
+    "0"
+   ],
+   "l": [
+    "0.0000000",
+    "0.0000000"
+   ],
+   "h": [
+    "0.0000000",
+    "0.0000000"
+   ],
+   "o": "0.0000000"
+  }
+ },
+ "XBTBRL": {
+  "symbol": "XBTBRL",
+  "timestamp": 1696905009315,
+  "datetime": "2023-10-10T02:30:09.315Z",
+  "high": null,
+  "low": null,
+  "bid": null,
+  "bidVolume": null,
+  "ask": null,
+  "askVolume": null,
+  "vwap": null,
+  "open": null,
+  "close": null,
+  "last": null,
+  "previousClose": null,
+  "change": 0.0,
+  "percentage": null,
+  "average": null,
+  "baseVolume": 0.0,
+  "quoteVolume": 0.0,
+  "info": {
+   "a": [
+    "0.0000",
+    "0",
+    "0.000"
+   ],
+   "b": [
+    "0.0000",
+    "0",
+    "0.000"
+   ],
+   "c": [
+    "0.0000",
+    "0.00000000"
+   ],
+   "v": [
+    "0.00000000",
+    "0.00000000"
+   ],
+   "p": [
+    "0.0000",
+    "0.0000"
+   ],
+   "t": [
+    "0",
+    "0"
+   ],
+   "l": [
+    "0.0000",
+    "0.0000"
+   ],
+   "h": [
+    "0.0000",
+    "0.0000"
+   ],
+   "o": "0.0000"
+  }
+ },
+ "XOREUR": {
+  "symbol": "XOREUR",
+  "timestamp": 1696905009319,
+  "datetime": "2023-10-10T02:30:09.319Z",
+  "high": null,
+  "low": null,
+  "bid": null,
+  "bidVolume": null,
+  "ask": null,
+  "askVolume": null,
+  "vwap": null,
+  "open": null,
+  "close": null,
+  "last": null,
+  "previousClose": null,
+  "change": 0.0,
+  "percentage": null,
+  "average": null,
+  "baseVolume": 0.0,
+  "quoteVolume": 0.0,
+  "info": {
+   "a": [
+    "0.0000000",
+    "0",
+    "0.000"
+   ],
+   "b": [
+    "0.0000000",
+    "0",
+    "0.000"
+   ],
+   "c": [
+    "0.0000000",
+    "0.00000000"
+   ],
+   "v": [
+    "0.00000000",
+    "0.00000000"
+   ],
+   "p": [
+    "0.0000000",
+    "0.0000000"
+   ],
+   "t": [
+    "0",
+    "0"
+   ],
+   "l": [
+    "0.0000000",
+    "0.0000000"
+   ],
+   "h": [
+    "0.0000000",
+    "0.0000000"
+   ],
+   "o": "0.0000000"
+  }
+ },
+ "XORUSD": {
+  "symbol": "XORUSD",
+  "timestamp": 1696905009319,
+  "datetime": "2023-10-10T02:30:09.319Z",
+  "high": null,
+  "low": null,
+  "bid": null,
+  "bidVolume": null,
+  "ask": null,
+  "askVolume": null,
+  "vwap": null,
+  "open": null,
+  "close": null,
+  "last": null,
+  "previousClose": null,
+  "change": 0.0,
+  "percentage": null,
+  "average": null,
+  "baseVolume": 0.0,
+  "quoteVolume": 0.0,
+  "info": {
+   "a": [
+    "0.0000000",
+    "0",
+    "0.000"
+   ],
+   "b": [
+    "0.0000000",
+    "0",
+    "0.000"
+   ],
+   "c": [
+    "0.0000000",
+    "0.00000000"
+   ],
+   "v": [
+    "0.00000000",
+    "0.00000000"
+   ],
+   "p": [
+    "0.0000000",
+    "0.0000000"
+   ],
+   "t": [
+    "0",
+    "0"
+   ],
+   "l": [
+    "0.0000000",
+    "0.0000000"
+   ],
+   "h": [
+    "0.0000000",
+    "0.0000000"
+   ],
+   "o": "0.0000000"
+  }
+ },
+ "XRPCHF": {
+  "symbol": "XRPCHF",
+  "timestamp": 1696905009319,
+  "datetime": "2023-10-10T02:30:09.319Z",
+  "high": null,
+  "low": null,
+  "bid": null,
+  "bidVolume": null,
+  "ask": null,
+  "askVolume": null,
+  "vwap": null,
+  "open": null,
+  "close": null,
+  "last": null,
+  "previousClose": null,
+  "change": 0.0,
+  "percentage": null,
+  "average": null,
+  "baseVolume": 0.0,
+  "quoteVolume": 0.0,
+  "info": {
+   "a": [
+    "0.00000000",
+    "0",
+    "0.000"
+   ],
+   "b": [
+    "0.00000000",
+    "0",
+    "0.000"
+   ],
+   "c": [
+    "0.00000000",
+    "0.00000000"
+   ],
+   "v": [
+    "0.00000000",
+    "0.00000000"
+   ],
+   "p": [
+    "0.00000000",
+    "0.00000000"
+   ],
+   "t": [
+    "0",
+    "0"
+   ],
+   "l": [
+    "0.00000000",
+    "0.00000000"
+   ],
+   "h": [
+    "0.00000000",
+    "0.00000000"
+   ],
+   "o": "0.00000000"
+  }
+ },
+ "ZRXETH": {
+  "symbol": "ZRXETH",
+  "timestamp": 1696905009322,
+  "datetime": "2023-10-10T02:30:09.322Z",
+  "high": null,
+  "low": null,
+  "bid": null,
+  "bidVolume": null,
+  "ask": null,
+  "askVolume": null,
+  "vwap": null,
+  "open": null,
+  "close": null,
+  "last": null,
+  "previousClose": null,
+  "change": 0.0,
+  "percentage": null,
+  "average": null,
+  "baseVolume": 0.0,
+  "quoteVolume": 0.0,
+  "info": {
+   "a": [
+    "0.000000000000",
+    "0",
+    "0.000"
+   ],
+   "b": [
+    "0.000000000000",
+    "0",
+    "0.000"
+   ],
+   "c": [
+    "0.000000000000",
+    "0.00000000"
+   ],
+   "v": [
+    "0.00000000",
+    "0.00000000"
+   ],
+   "p": [
+    "0.000000000000",
+    "0.000000000000"
+   ],
+   "t": [
+    "0",
+    "0"
+   ],
+   "l": [
+    "0.000000000000",
+    "0.000000000000"
+   ],
+   "h": [
+    "0.000000000000",
+    "0.000000000000"
+   ],
+   "o": "0.000000000000"
+  }
+ }
+}

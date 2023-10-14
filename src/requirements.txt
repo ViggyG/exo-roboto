@@ -1,0 +1,4 @@
+SQLAlchemy
+PyYAML
+ccxt
+psycopg2
